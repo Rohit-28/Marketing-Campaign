@@ -24,7 +24,11 @@ The data science project, analyze the marketing campaign revenue optimization wi
    * _Residual Analysis_
    
   
-
+#### Tools & Softwares Used:
+    "" IBM-SPSS, Python 3.0, Anaconda Notebook, MS-Excel ""
+   
+#### Python Libraries Used:
+   *Numpy (Algebric Operations), Pandas (Data Operations), Matplotlib (Data Visualization), Skit-learn (Model Development)*
 
 ## Project Stakeholders
   *Rohit Yadav,

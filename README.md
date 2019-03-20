@@ -19,6 +19,9 @@ The data science project, analyze the marketing campaign revenue optimization wi
    * _Exploratory Data Analysis (EDA)_
    * _Data Visualisation (SPSS based)_
    * _Prescriptive Data Analysis (Simplex Linear Programming)_
+        *_Data MOdel Creation_
+        *_Liner Programming_
+        *_Senstivity Analysis_
    * _Feature Extraction_
    * _Model Building_
    * _Cross Validation_

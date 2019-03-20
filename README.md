@@ -1,4 +1,4 @@
-# Marketing-Campaign-optimisation
+:atom_symbol: :signal_strength: # Marketing-Campaign-optimisation
 The data science project, analyze the marketing campaign revenue optimization with the help of **Statistical Analysis** and Modeling a framework for the same.Project covers **Descriptive Statistical** analysis of data, **Presciptive analysis** using algorithms like *Simplex Linear Programming* using MS-excel based modeling & algebric modeling, as well as Predictive analysis of revenue optimisation with *Multiple-Linear-Regression* Modeling.
 
 #### The test data sets used in the project are as below
@@ -6,15 +6,32 @@ The data science project, analyze the marketing campaign revenue optimization wi
 * marketing-mix.xsls
 * customer-sales.csv
 
+[![Generic badge](https://img.shields.io/badge/Marketing-Campaign-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Descriptive-Anatylics-mediumgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Presciptive-Anatylics-mediumgreen.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-SPSS-mediumgreen.svg)](https://shields.io/)
 
+#### Table of Content
+   *  _Project Summary_
+   * _Data Collection/Loading_
+   * _Data Cleaning_
+   * _Data Scaling/Imputation_
+   * _Exploratory Data Analysis (EDA)_
+   * _Data Visualisation (SPSS based)_
+   * _Prescriptive Data Analysis (Simplex Linear Programming)_
+   * _Model Building_
+   * _Cross Validation_
+   * _Residual Analysis_
+   
+  
 
 
 ## Project Stakeholders
-  *Rohit Yadav
-  Dhananjay Kumar
-  Nishant
-  Manish Jaiswal
-  Pallavi Singh
+  *Rohit Yadav,
+  Dhananjay Kumar,
+  Nishant,
+  Manish Jaiswal,
+  Pallavi Singh,
   Surendra  Yadla*
   :star2: :four_leaf_clover:
   

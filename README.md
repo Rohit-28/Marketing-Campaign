@@ -1,10 +1,10 @@
 # Marketing-Campaign-optimisation   :atom_symbol: :signal_strength:
-The data science project, analyze the marketing campaign revenue optimization with the help of **Statistical Analysis** and Modeling a framework for the same.Project covers **Descriptive Statistical** analysis of data, **Presciptive analysis** using algorithms like *Simplex Linear Programming* using MS-excel based modeling & algebric modeling, as well as Predictive analysis of revenue optimisation with *Multiple-Linear-Regression* Modeling.
+The data science project, analyze the marketing campaign revenue optimization with the help of **Statistical Analysis** and Modeling a framework for the same.Project covers **Descriptive Statistical** analysis of data, **Presciptive analysis** using algorithms like *Simplex Linear Programming* using MS-excel based modeling & algebric modeling, as well as Predictive analysis of revenue optimisation with *Multiple-Linear-Regression* Modeling. One module also includes *Social-Medial-Marketing-Campaign* anaysis based on **Clustering Algorithm".
 
 #### The test data sets used in the project are as below
 * marketing.csv
 * marketing-mix.xsls
-* customer-sales.csv
+* social-media-marketing.csv
 
 [![Generic badge](https://img.shields.io/badge/Marketing-Campaign-yellow.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Descriptive-Anatylics-mediumgreen.svg)](https://shields.io/)

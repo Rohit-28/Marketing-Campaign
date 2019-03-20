@@ -19,16 +19,17 @@ The data science project, analyze the marketing campaign revenue optimization wi
    * _Exploratory Data Analysis (EDA)_
    * _Data Visualisation (SPSS based)_
    * _Prescriptive Data Analysis (Simplex Linear Programming)_
+   * _Feature Extraction_
    * _Model Building_
    * _Cross Validation_
    * _Residual Analysis_
    
   
 #### Tools & Softwares Used:
-    "" IBM-SPSS, Python 3.0, Anaconda Notebook, MS-Excel ""
+   *IBM-SPSS, Python 3.0, Anaconda Notebook, MS-Excel, Airflow (Data Pipelining), Flask (Prototyping, Web Endpoint Creation), GCP (Model Deployment with real world data)*
    
 #### Python Libraries Used:
-   *Numpy (Algebric Operations), Pandas (Data Operations), Matplotlib (Data Visualization), Skit-learn (Model Development)*
+  *Numpy (Algebric Operations), Pandas (Data Operations), Matplotlib (Data Visualization), Skit-learn (Model Development)*
 
 ## Project Stakeholders
   *Rohit Yadav,
@@ -37,5 +38,5 @@ The data science project, analyze the marketing campaign revenue optimization wi
   Manish Jaiswal,
   Pallavi Singh,
   Surendra  Yadla*
-  :star2: :four_leaf_clover:
+  :star2: :four_leaf_clover: :four_leaf_clover: :four_leaf_clover:
   

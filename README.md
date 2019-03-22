@@ -26,7 +26,7 @@ The data science project, analyze the marketing campaign revenue optimization wi
    * _Model Building_
    * _Cross Validation_
    * _Residual Analysis_
-   * _Social Media Marketing Cluster analysis_
+   * _Social Media Marketing Cluster analysis (Unsupervised learning)_
    
   
 #### Tools & Softwares Used:
